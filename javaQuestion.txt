@@ -1,0 +1,29 @@
+0001	Program to print "Hello Java".
+
+0002	Program to make all primitive datatype variable
+		& read value in variable 
+		& display to console.
+
+0003	Program to add two number.
+0004	Program to Subtract two number.
+0005	Program to Multipy two number.
+0006	Program to find quadent of a/b.
+0007	Program to find remainder of a/b.
+0008	Program to add two number without using +.
+0009	Program to find the area of circle.
+0010	Program to find the circumference of circle.
+
+0011	Program to find the area of square.
+0012	Program to find the area of rectangle.
+0013	Program to find the area of triangle.
+0014	Program to find the perimeter of square.
+0015	Program to find the perimeter of rectangle.
+0016	Program to find the perimeter of triangle.
+0017	Program to convert F temp to C temp.
+0018	Program to convert C temp to F temp.
+0019	Program to find simple intrest.
+0020	Program to find compound intrest.
+
+0021	Program to swap 2 num using third variable.
+0022	Program to swap 2 num without using third variable.
+0023	Program to swap 2 num without using third variable and in single statement.
