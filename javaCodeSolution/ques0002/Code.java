@@ -1,5 +1,9 @@
-import java.util.Scanner;
+//@eshutkarsharma
+// 0002	Program to make all primitive datatype variable
+// 	and read value in variable 
+// 	and display to console.
 
+import java.util.Scanner;
 public class Code{
 	public static void main(String []args)
 	{

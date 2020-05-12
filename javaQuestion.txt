@@ -25,10 +25,10 @@
 0020	Program to find compound intrest.
 
 0021	Program to swap 2 num using third variable.
-0022	Program to swap 2 num without using third variable. + -
-0023	Program to swap 2 num without using third variable and without using (+ -). * /
-0024	Program to swap 2 num without using third variable and in single statement. ()
-0025	Program to swap 2 num without using third variable and without + - * /. ^
+0022	Program to swap 2 num without using third variable.
+0023	Program to swap 2 num without using third variable and without using (+ -).
+0024	Program to swap 2 num without using third variable and in single statement.
+0025	Program to swap 2 num without using third variable and without + - * /.
 0026	Program to add 5 and 7 without using (+,-) operator.
 0027	Program to find max number out of 2 number.
 0028	Program to find max number out of 3 number.
