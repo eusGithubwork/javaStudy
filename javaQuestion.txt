@@ -65,3 +65,24 @@
 0038	program to check whether a entered character is lowercase (a to z) or uppercase (A to Z).
 0039	program to check a entered char is lowercase, uppercase alphabet or number or Special Symbol.
 0040	program to check whether a entered number is zero, negative number, or positive number.
+
+0041	Program to detect key presses.
+		If the user pressed number keys( from 0 to 9), the program will tell the number that is pressed,  otherwise, program will show "Not allowed".
+
+0042	Program that allows the user to choose the correct answer of a question.
+		See the example below:
+		What is the correct way to declare a variable to store an integer value in Java?
+		a. int 1x=10;
+		b. int x=10;
+		c. float x=10.0f;
+		d. string x="10";
+		Enter your choice: c
+
+0043	Program to print day of week name using switch case(1-7).
+0044	Program print total number of days in a month using switch case.
+0045	Program to check whether an alphabet is vowel or consonant using switch case.
+0046	Program to check whether a number is even or odd using switch case.
+0047	Program to find maximum between two numbers using switch case.
+0048	Program to check whether a number is positive, negative or zero using switch case.
+0049	Program to create Simple Calculator using switch case.
+0050	Program to print month name using switch case(1-12).
