@@ -1,5 +1,5 @@
-// @eshutkarsharma
-// 0046 Program to check whether a number is even or odd using switch case.
+//  @eshutkarsharma
+//  0046 Program to check whether a number is even or odd using switch case.
 import java.util.Scanner;
 
 public class Code {

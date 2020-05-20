@@ -1,5 +1,5 @@
-// @eshutkarsharma
-// 0049 Program to create Simple Calculator using switch case.
+//  @eshutkarsharma
+//  0049 Program to create Simple Calculator using switch case.
 import java.util.Scanner;
 
 public class Code {

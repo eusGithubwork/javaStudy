@@ -1,6 +1,5 @@
-//solution given by : surbhi Garg
-
-// 0029 Program to find min number out of 2 number.
+//  solution given by : surbhi Garg
+//  0029 Program to find min number out of 2 number.
 
 import java.util.Scanner;
 

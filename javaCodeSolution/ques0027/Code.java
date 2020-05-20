@@ -1,5 +1,5 @@
-//solution given by : surbhi Garg
-// 0027    Program to find max number out of 2 number.
+//  solution given by : surbhi Garg
+//  0027    Program to find max number out of 2 number.
 import java.util.Scanner;
 public class Code{
     public static void main(String []args){

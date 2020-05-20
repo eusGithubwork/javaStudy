@@ -1,5 +1,5 @@
-//@eshutkarsharma
-// 0002	Program to make all primitive datatype variable
+//	@eshutkarsharma
+// 	0002	Program to make all primitive datatype variable
 // 	and read value in variable 
 // 	and display to console.
 

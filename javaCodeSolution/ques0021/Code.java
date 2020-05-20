@@ -1,5 +1,5 @@
-//@eshutkarsharma
-// 0021	Program to swap 2 num using third variable
+//	@eshutkarsharma
+// 	0021	Program to swap 2 num using third variable
 
 public class Code{
 	public static void main(String []args)

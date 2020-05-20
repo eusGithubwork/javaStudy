@@ -1,5 +1,5 @@
-//solution given by : surbhi Garg
-// 0026 Program to add 5 and 7 without using (+,-) operator.
+//  solution given by : surbhi Garg
+//  0026 Program to add 5 and 7 without using (+,-) operator.
 
 public class Code{
     public static void main(String []args){

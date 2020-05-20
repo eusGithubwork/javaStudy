@@ -1,5 +1,5 @@
-//@eshutkarsharma
-// 0022	Program to swap 2 num without using third variable.
+//	@eshutkarsharma
+// 	0022	Program to swap 2 num without using third variable.
 
 import java.util.Scanner;
 public class Code{

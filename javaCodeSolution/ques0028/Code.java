@@ -1,5 +1,5 @@
-//solution given by : surbhi Garg
-// 0028	Program to find max number out of 3 number.
+//  solution given by : surbhi Garg
+//  0028	Program to find max number out of 3 number.
 
 import java.util.Scanner;
 public class Code{

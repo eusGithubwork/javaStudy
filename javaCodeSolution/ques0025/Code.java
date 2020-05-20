@@ -1,5 +1,5 @@
-//solution given by : surbhi Garg
-// 0025 Program to swap 2 num without using third variable and without + - * /.
+//  solution given by : surbhi Garg
+//  0025 Program to swap 2 num without using third variable and without + - * /.
 
 import java.util.Scanner;
 public class Code{

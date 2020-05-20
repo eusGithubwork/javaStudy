@@ -1,6 +1,5 @@
-//solution given by : surbhi Garg
-
-// 0030    Program to find min number out of 3 number.
+//  solution given by : surbhi Garg
+//  0030    Program to find min number out of 3 number.
 
 import java.util.Scanner;
 
