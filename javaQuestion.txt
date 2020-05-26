@@ -86,3 +86,118 @@
 0048	Program to check whether a number is positive, negative or zero using switch case.
 0049	Program to create Simple Calculator using switch case.
 0050	Program to print month name using switch case(1-12).
+
+// using For 0051 - 0060
+0051	Program to print counting 1 to 10.
+0052	Program to print table of 2.
+0053	program to char value and its unicode.
+0054	Program to calculate the sum of first 10 natural number.
+0055	Program to print the table of input number.
+0056	Program to find the factorial value of any number entered through the keyboard.
+0057	Program to calculate the sum of following series where n is input by user. 
+		1 + 1/2 + 1/3 + 1/4 + 1/5 +…………1/n 
+0058	Program to print the sum of digit of input integer number.
+0059	Write a program to print Fibonacci series of n terms where n is input by user :
+		0 1 1 2 3 5 8 13 21 ..... n
+// till n
+0060	Draw Pattern
+
+a)
+*****
+*****
+*****
+*****
+*****
+
+b)
+@@@@@
+@@@@@
+@@@@@
+@@@@@
+@@@@@
+
+c)
+11111
+22222
+33333
+44444
+55555
+
+d)
+12345
+12345
+12345
+12345
+12345
+
+c)
+*****
+*   *
+*   *
+*   *
+*****
+
+d)
+*****
+ *
+  *
+   *
+*****
+
+e)
+*****
+   *
+  *
+ *
+*****
+
+f)
+*
+**
+***
+****
+*****
+
+g)
+    *
+   **
+  ***
+ ****
+*****
+
+h)
+*****
+ ****
+  ***
+   **
+    *
+
+i)
+*****
+****
+***
+**
+*
+
+j)
+    **
+   ****
+  ******
+ ********
+**********
+**********
+ ********
+  ******
+   ****
+    **
+k)
+
+    *
+   ***
+  *****
+ *******
+*********
+ *******
+  *****
+   ***
+    *
