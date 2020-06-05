@@ -87,7 +87,7 @@
 0049	Program to create Simple Calculator using switch case.
 0050	Program to print month name using switch case(1-12).
 
-// using For 0051 - 0060
+// using For 0051 - 0062
 0051	Program to print counting 1 to 10.
 0052	Program to print table of 2.
 0053	program to char value and its unicode.
@@ -201,3 +201,82 @@ k)
   *****
    ***
     *
+
+0061) Program To Print
+	
+	1	2	3 using break;
+
+0062) Program To Print
+
+	1	2	3	4	6	7	9	10
+
+// do all question from 63 to 80 using while loop
+
+0063) Program to print all natural numbers from 1 to n.
+0063) Program to print all natural numbers in reverse (from n to 1).
+0064) Program to find sum of all odd numbers between 1 to n.
+0065) Program to find first and last digit of a number
+0066) Program to count number of digits in a number.
+0066) Program to swap first and last digits of a number.
+0067) Program to enter a number and print its reverse.
+0068) Program to check whether a number is palindrome or not.
+0069) Program to enter a number and print it in words.
+0070) Program to calculate factorial of a number.
+0071) Program to find HCF (GCD) of two numbers.
+0072) Program to find LCM of two numbers.
+0073) Program to check whether a number is Prime number or not.
+0074) Program to print all Prime numbers between 1 to n.
+0075) Program to find all prime factors of a number.
+0076) Program to check whether a number is Armstrong number or not.
+0077) Program to check whether a number is Perfect number or not.
+0078) Program to check whether a number is Strong number or not.
+
+0079) Program To Print
+	
+	1	2	3 using break;
+
+0080) Program To Print
+
+	1	2	3	4	6	7	9	10
+
+// program usign do while loop
+0081) program to make this output flow
+	
+	1. Print Hello
+	2. Print Yuuuuuuuuuuup!
+	3. Exit
+		Enter Choice : 1
+	
+	Hello
+	do you want to enter more(Y/N)? y
+
+	1. Print Hello
+	2. Print Yuuuuuuuuuuup!
+	3. Exit
+		Enter Choice : 2
+
+	Yuuuuuuuuuuup!
+
+	do you want to enter more(Y/N)? n
+	Thank you For Using App.
+
+// function based Question 82 to 100
+0082) Program find the square of any number using the function.
+0083) Program find the cube of any number using the function.
+0084) program to check a given number is even or odd using the function.
+0085) Program to check whether a number is a prime number or not using the function.
+0086) Program to check armstrong and perfect numbers using the function.
+0087) Program in C to print all perfect numbers in given range using the function.
+0088) Program find the sum of two number using function.
+0089) Program find the subtraction of two number using function.
+0090) Program find the multiply of two number using function.
+0091) Program find the quotient of two number using function.
+0092) Program find the remainder of two number using function.
+0093) Program to find factorial of rumber using recursive function.
+0094) Program to print 1 to n using recursive function.
+0095) Program to print n to 1 using recursive function.
+0096) Program to print fibonacci series using recursive function.
+0097) Program to find the sum of digits of a number using recursion.
+0098) Program to convert a decimal number to binary using recursion.
+0099) Program to calculate the power of any number using recursion.
+0100) Program to print the total no of call on each call to particular function.
